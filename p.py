@@ -75,7 +75,6 @@ tel1_banco = Excel(banco_de_dados, 'l', 'l')
 
 tel1_digitacao.busca_duplicatas(tel1_banco.lista)
 
-print(tel1_digitacao.lista_iguais)
 
 
 
