@@ -28,8 +28,8 @@ class Excel:
         for l,v in self.lista.items():
             for l1, v1 in i.items():
                 if v == v1:
-                    print(v, v1, 'Duplicado')
-                    print(v1, 'Adicionado na lista')
+                    print(f'{l1} {v1} Duplicado')
+                    print('{v1} Adicionado na lista')
                     self.contador[l1] = v1
                     self.lista_iguais[l1] = v1
                   
