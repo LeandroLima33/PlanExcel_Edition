@@ -10,7 +10,7 @@ banco_de_dados = planilha_banco_de_dados['Arquivo']
 
 
 
-class Excel():
+class Excel:
     def __init__(self, p, v1=str, v2=str):
         self.campo = p[v1:v2]
         self.lista = {}
@@ -36,7 +36,7 @@ class Excel():
            
              
                 else:
-                    print(l, len(self.contador))
+                    print(l,'<= Linha planilha |', 'Duplicatas encontradas =>', len(self.contador))
         
         json_object = json.dumps(self.lista_iguais, indent=4)
         with open('telefones', 'w') as arquivo_saida:
