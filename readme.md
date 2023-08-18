@@ -4,5 +4,5 @@
 
 
 
-<p align="center"> Este projeto foi criado para buscar valores
-duplicados em planilhas excel.</p>
+<h2><p align="center"> Este projeto foi criado para buscar valores
+duplicados em planilhas excel.</p></h2>
