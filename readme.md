@@ -1,6 +1,6 @@
 <h1 align="center">DUPLICATAS EM PLANILHA EXCEL</h1>
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pypi-version-0.2.0?style=metallic)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
